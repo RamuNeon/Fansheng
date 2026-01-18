@@ -1,0 +1,98 @@
+[
+  {
+    "urlTemplate" : "https:\/\/search.bilibili.com\/all?keyword={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用哔哩哔哩搜索视频",
+    "useOriginalTitle" : false,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "哔哩哔哩"
+  },
+  {
+    "urlTemplate" : "https:\/\/www.xiaohongshu.com\/search_result?keyword={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用小红书搜索笔记",
+    "useOriginalTitle" : false,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "小红书"
+  },
+  {
+    "urlTemplate" : "https:\/\/www.baidu.com\/s?wd={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用百度进行搜索",
+    "useOriginalTitle" : false,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "百度"
+  },
+  {
+    "urlTemplate" : "https:\/\/www.google.com\/search?q={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用 Google 进行搜索",
+    "useOriginalTitle" : true,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "Google"
+  },
+  {
+    "urlTemplate" : "https:\/\/www.youtube.com\/results?search_query={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用 YouTube 搜索视频",
+    "useOriginalTitle" : true,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "YouTube"
+  },
+  {
+    "urlTemplate" : "https:\/\/x.com\/search?q={keyword}",
+    "isEnabled" : true,
+    "isCustom" : false,
+    "isPinned" : false,
+    "description" : "使用 X 搜索账号或推文",
+    "useOriginalTitle" : true,
+    "supportedTypes" : [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "name" : "X"
+  }
+]
